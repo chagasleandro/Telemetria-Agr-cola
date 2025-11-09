@@ -76,7 +76,7 @@ Base para expansão em sistemas de agricultura inteligente (Smart Farming)
 
 Leandro Chagas
 Especialista em Suporte Técnico, IoT e Monitoramento
-🔗 LinkedIn
+🔗 LinkedIn: https://www.linkedin.com/in/leandro-chagas-/
 
-💻 GitHub
+💻 GitHub: 
 
